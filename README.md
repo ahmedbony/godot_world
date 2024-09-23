@@ -1,1 +1,1 @@
-# godot_world
+Simple demolition derby game using GODOT
